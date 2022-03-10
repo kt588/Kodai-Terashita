@@ -33,10 +33,10 @@
 #### ```python main.py```
 
 #### Then you will find in ~/aenet_vasp_interface/xsfs the XSF structure files of which data are extracted from OUTCARs.
+#### Please ignore the files initially put in the directory of "OUTCARs" and "xsfs" and remove or replace them with your own file.
 
 
-
-
+### Citation
 [^1]: N. Artrith and A. Urban, Comput. Mater. Sci. 114 (2016) 135-150.
 [^2]: G. Kresse and J. Hafner, Phys. Rev. B 47 , 558 (1993); ibid. 49 , 14 251 (1994).
 [^3]: G. Kresse and J. Furthmüller, Comput. Mat. Sci. 6 , 15 (1996).
