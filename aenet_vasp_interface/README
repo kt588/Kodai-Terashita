@@ -1,0 +1,5 @@
+
+'About this package'
+aenet_vasp_interface is a Python tool for generating the XSF structure files for AENET from OUTCAR files calculated by VASP.
+
+'How to use this package'
